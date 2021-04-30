@@ -13,7 +13,9 @@ r = requests.get(base_url)
 soup = BeautifulSoup(r.content, 'html.parser')
 brandlist = soup.find('ul', class_='brandslist')
 
-brands = {}
+brands_dict = {}
+
+list_brands = []
 
 for brand in brandlist:
     
@@ -29,9 +31,18 @@ for brand in brandlist:
 
     print(cars_count)
 
-    barnds = {
+    brands_dict = {
         'name': name,
         'cars_count': cars_count
     }
 
-    print(barnds)
+    list_brands.append(brands_dict)
+
+barnds = "barnds.json"
+with open(barnds, 'w', encoding='utf-8') as json_file:
+    json.dump(list_brands, json_file, ensure_ascii = False, indent =4)
+
+
+print("file dumped")
+
+
