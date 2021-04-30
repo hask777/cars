@@ -17,7 +17,7 @@
     },
     {
         "name": "Audi",
-        "cars_count": 3998
+        "cars_count": 3999
     },
     {
         "name": "Bentley",
@@ -25,7 +25,7 @@
     },
     {
         "name": "BMW",
-        "cars_count": 4396
+        "cars_count": 4392
     },
     {
         "name": "Brilliance",
@@ -49,7 +49,7 @@
     },
     {
         "name": "Chery",
-        "cars_count": 65
+        "cars_count": 64
     },
     {
         "name": "Chevrolet",
@@ -61,7 +61,7 @@
     },
     {
         "name": "Citroen",
-        "cars_count": 2067
+        "cars_count": 2064
     },
     {
         "name": "Dacia",
@@ -141,7 +141,7 @@
     },
     {
         "name": "Hyundai",
-        "cars_count": 1469
+        "cars_count": 1467
     },
     {
         "name": "Infiniti",
@@ -169,7 +169,7 @@
     },
     {
         "name": "Kia",
-        "cars_count": 1320
+        "cars_count": 1321
     },
     {
         "name": "Lada (ВАЗ)",
@@ -177,7 +177,7 @@
     },
     {
         "name": "Lancia",
-        "cars_count": 106
+        "cars_count": 105
     },
     {
         "name": "Land Rover",
@@ -205,7 +205,7 @@
     },
     {
         "name": "Mercedes-Benz",
-        "cars_count": 3340
+        "cars_count": 3341
     },
     {
         "name": "Mercury",
@@ -221,7 +221,7 @@
     },
     {
         "name": "Mitsubishi",
-        "cars_count": 1180
+        "cars_count": 1182
     },
     {
         "name": "Nissan",
@@ -229,11 +229,11 @@
     },
     {
         "name": "Opel",
-        "cars_count": 3880
+        "cars_count": 3878
     },
     {
         "name": "Peugeot",
-        "cars_count": 2603
+        "cars_count": 2604
     },
     {
         "name": "Plymouth",
@@ -289,7 +289,7 @@
     },
     {
         "name": "Skoda",
-        "cars_count": 1224
+        "cars_count": 1223
     },
     {
         "name": "Smart",
@@ -321,7 +321,7 @@
     },
     {
         "name": "Volkswagen",
-        "cars_count": 6615
+        "cars_count": 6611
     },
     {
         "name": "Volvo",

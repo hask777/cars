@@ -38,6 +38,8 @@ for brand in brandlist:
 
     list_brands.append(brands_dict)
 
+    print(list_brands)
+
 barnds = "barnds.json"
 with open(barnds, 'w', encoding='utf-8') as json_file:
     json.dump(list_brands, json_file, ensure_ascii = False, indent =4)
