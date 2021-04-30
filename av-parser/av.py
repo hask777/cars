@@ -1,12 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-import brands
+# import brands
 
 
 base_url = 'https://cars.av.by/'
 
-carslinks = {}
+carslinks = {} 
 
 finalcars = []
 
@@ -43,8 +43,14 @@ for x in range(1,5):
 
         ''' Find car price by usd '''
         price_usd = item.find('div', class_='listing-item__priceusd').text
+        price_usd = price_usd.replace('≈', ' ')
+        price_usd = price_usd.replace('$', ' ').strip()
+        price_usd = price_usd.split()
+        for x in price_usd:
+            x = int(x)
 
-        # print(price_usd)
+        price_usd = price_usd[0]+price_usd[1]
+        
     
         carslinks = {
             'image': image,
@@ -65,6 +71,18 @@ with open(cars, 'w', encoding='utf-8') as json_file:
     json.dump(finalcars, json_file, ensure_ascii = False, indent =4)
 
 
-print(list_brands)
+print('file dumped')
     
-   
+
+# def convert(string: str) -> int:
+#     for base in range(0, 36):
+#         try:
+#             if str(int(string, base)) == string:
+#                 return int(string, base)
+#                 break
+#         except ValueError:
+#             pass
+#         finally:
+#             pass
+
+# print(convert(price_usd))   

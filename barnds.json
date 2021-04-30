@@ -9,7 +9,7 @@
     },
     {
         "name": "Alfa Romeo",
-        "cars_count": 234
+        "cars_count": 233
     },
     {
         "name": "Asia",
@@ -17,7 +17,7 @@
     },
     {
         "name": "Audi",
-        "cars_count": 3999
+        "cars_count": 3997
     },
     {
         "name": "Bentley",
@@ -25,7 +25,7 @@
     },
     {
         "name": "BMW",
-        "cars_count": 4392
+        "cars_count": 4390
     },
     {
         "name": "Brilliance",
@@ -33,7 +33,7 @@
     },
     {
         "name": "Buick",
-        "cars_count": 106
+        "cars_count": 107
     },
     {
         "name": "BYD",
@@ -49,7 +49,7 @@
     },
     {
         "name": "Chery",
-        "cars_count": 64
+        "cars_count": 66
     },
     {
         "name": "Chevrolet",
@@ -57,19 +57,19 @@
     },
     {
         "name": "Chrysler",
-        "cars_count": 633
+        "cars_count": 635
     },
     {
         "name": "Citroen",
-        "cars_count": 2064
+        "cars_count": 2067
     },
     {
         "name": "Dacia",
-        "cars_count": 69
+        "cars_count": 70
     },
     {
         "name": "Daewoo",
-        "cars_count": 314
+        "cars_count": 315
     },
     {
         "name": "Daihatsu",
@@ -97,11 +97,11 @@
     },
     {
         "name": "Fiat",
-        "cars_count": 964
+        "cars_count": 966
     },
     {
         "name": "Ford",
-        "cars_count": 3068
+        "cars_count": 3062
     },
     {
         "name": "FSO",
@@ -109,7 +109,7 @@
     },
     {
         "name": "Geely",
-        "cars_count": 171
+        "cars_count": 172
     },
     {
         "name": "GMC",
@@ -133,7 +133,7 @@
     },
     {
         "name": "Honda",
-        "cars_count": 1035
+        "cars_count": 1039
     },
     {
         "name": "Hummer",
@@ -141,11 +141,11 @@
     },
     {
         "name": "Hyundai",
-        "cars_count": 1467
+        "cars_count": 1471
     },
     {
         "name": "Infiniti",
-        "cars_count": 271
+        "cars_count": 272
     },
     {
         "name": "Iran Khodro",
@@ -169,11 +169,11 @@
     },
     {
         "name": "Kia",
-        "cars_count": 1321
+        "cars_count": 1322
     },
     {
         "name": "Lada (ВАЗ)",
-        "cars_count": 1012
+        "cars_count": 1011
     },
     {
         "name": "Lancia",
@@ -181,7 +181,7 @@
     },
     {
         "name": "Land Rover",
-        "cars_count": 374
+        "cars_count": 373
     },
     {
         "name": "Lexus",
@@ -205,7 +205,7 @@
     },
     {
         "name": "Mercedes-Benz",
-        "cars_count": 3341
+        "cars_count": 3337
     },
     {
         "name": "Mercury",
@@ -213,27 +213,27 @@
     },
     {
         "name": "MG",
-        "cars_count": 11
+        "cars_count": 12
     },
     {
         "name": "MINI",
-        "cars_count": 92
+        "cars_count": 91
     },
     {
         "name": "Mitsubishi",
-        "cars_count": 1182
+        "cars_count": 1178
     },
     {
         "name": "Nissan",
-        "cars_count": 2049
+        "cars_count": 2050
     },
     {
         "name": "Opel",
-        "cars_count": 3878
+        "cars_count": 3890
     },
     {
         "name": "Peugeot",
-        "cars_count": 2604
+        "cars_count": 2603
     },
     {
         "name": "Plymouth",
@@ -257,15 +257,15 @@
     },
     {
         "name": "Renault",
-        "cars_count": 3355
+        "cars_count": 3356
     },
     {
         "name": "Rover",
-        "cars_count": 301
+        "cars_count": 302
     },
     {
         "name": "Saab",
-        "cars_count": 126
+        "cars_count": 127
     },
     {
         "name": "Saipa",
@@ -285,11 +285,11 @@
     },
     {
         "name": "SEAT",
-        "cars_count": 399
+        "cars_count": 400
     },
     {
         "name": "Skoda",
-        "cars_count": 1223
+        "cars_count": 1228
     },
     {
         "name": "Smart",
@@ -317,15 +317,15 @@
     },
     {
         "name": "Toyota",
-        "cars_count": 1925
+        "cars_count": 1929
     },
     {
         "name": "Volkswagen",
-        "cars_count": 6611
+        "cars_count": 6635
     },
     {
         "name": "Volvo",
-        "cars_count": 1176
+        "cars_count": 1170
     },
     {
         "name": "Vortex",
@@ -369,7 +369,7 @@
     },
     {
         "name": "УАЗ",
-        "cars_count": 127
+        "cars_count": 128
     },
     {
         "name": "Эксклюзив",
