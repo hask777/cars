@@ -36,17 +36,27 @@ for x in range(1,5):
 
         ''' Find car link '''
         link = item.find('a', href=True)['href']
+
+        ''' Find car price '''
+        price_ru = item.find('div', class_='listing-item__price').text
+
+        ''' Find car price by usd '''
+        price_usd = item.find('div', class_='listing-item__priceusd').text
+
+        # print(price_usd)
     
         carslinks = {
             'image': image,
             'title': title,
             'params': params,
-            'link': link
+            'link': link,
+            'price_ru': price_ru,
+            'price_usd': price_usd
         }
 
         finalcars.append(carslinks)
 
-print(len(finalcars))
+# print(len(finalcars))
 
 
 cars = "cars.json"
