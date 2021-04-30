@@ -33,7 +33,7 @@ for brand in brandlist:
 
     brands_dict = {
         'name': name,
-        'cars_count': cars_count
+        'cars_count': int(cars_count)
     }
 
     list_brands.append(brands_dict)
